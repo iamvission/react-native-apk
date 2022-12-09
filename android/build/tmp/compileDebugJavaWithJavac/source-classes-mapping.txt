@@ -1,0 +1,6 @@
+be/skyzohlabs/rnapk/ReactNativeAPKModule.java
+ be.skyzohlabs.rnapk.ReactNativeAPKModule
+be/skyzohlabs/rnapk/ReactNativeAPKPackage.java
+ be.skyzohlabs.rnapk.ReactNativeAPKPackage
+be/skyzohlabs/rnapk/BuildConfig.java
+ be.skyzohlabs.rnapk.BuildConfig
